@@ -21,10 +21,6 @@ If you have suggestions for where this list should live (other than @jamesmunns'
 
 -->
 
-* Badtuple
-    * [Twitch Channel](https://www.twitch.tv/badtuple/)
-    * [Github](https://github.com/badtuple), [Mastodon](https://mastodon.social/@badtuple)
-    * Database Implementation, Procedural Generation
 * Benjamin Halsted (halzy)
     * [Twitch Channel](https://www.twitch.tv/mrhalzy/)
     * [Github](https://github.com/halzy)
@@ -33,6 +29,10 @@ If you have suggestions for where this list should live (other than @jamesmunns'
     * [YouTube Channel](https://www.youtube.com/user/gamozolabs), [Twitch Channel](https://www.twitch.tv/gamozo)
     * [GitHub](https://github.com/gamozolabs), [Twitter](https://twitter.com/gamozolabs), [Blog](https://gamozolabs.github.io/)
     * OSdev, Hypervisors, Fuzzers
+* Bruno Rocha - (CodeShow)
+    * [Youtube Channel](https://Youtube.com/CodeShowBR), [Twitch Channel](https://twitch.tv/codeshow)
+    * [Github](https://github.com/rochacbruno), [Twitter](https://twitter.com/rochacbruno)
+    * Learning, Web, Testing, Python FFI
 * David Pedersen
     * [YouTube Channel](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ), [Twitch Channel](https://www.twitch.tv/davidpdrsn)
     * [GitHub](https://github.com/davidpdrsn), [Twitter](https://twitter.com/davidpdrsn)
